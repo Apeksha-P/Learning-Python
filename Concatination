@@ -1,0 +1,2 @@
+print("Hello"+"Apeksha")  //HelloApeksha
+print("Hello"+" "+"Apeksha")   //Hello Apeksha
