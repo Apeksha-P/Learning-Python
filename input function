@@ -1,0 +1,7 @@
+print("What is your name? ")  //What is your name? 
+
+print("Helloo"+" "+input("What is your name? "))  //What is your name? Apeksha
+                                                  //Helloo Apeksha
+                                                  
+print("Helloo"+" "+input("What is your Name? ")+" "+"How are you")  //What is your Name? Pavithri
+                                                                    //Helloo Pavithri How are you
