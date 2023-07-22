@@ -1,0 +1,7 @@
+a = input("Enter value of a: ")    //Enter value of a: 5
+b = input("Enter value of b: ")    //Enter value of b: 6
+temp = a
+a = b
+b = temp
+print("a = " + a)        //a = 6
+print("b = " + b)        //b = 5
