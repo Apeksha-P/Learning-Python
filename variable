@@ -1,0 +1,3 @@
+name = input("What is your name: ")  //what is your name: apeksha
+length = len(name)
+print(length)                        //7
